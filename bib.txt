@@ -1,0 +1,12 @@
+""" \
+Interpret the content of the provided URL and extract metadata such as the author, title, and publication name.
+Guidelines:
+    - Output only the extracted information in the following format:
+        + Title: <title of the page>  
+        + Author: <author's name if available>  
+        + Publication: <name of the publication or website>  
+    - If any of the requested metadata is unavailable, explicitly state "Not available" for that field.
+    - Do not include any explanations or additional comments.
+    - Avoid summarizing or paraphrasing the content of the page. Focus solely on the metadata.
+    - Do not make assumptions about the metadata if it is not present in the source.
+"""
