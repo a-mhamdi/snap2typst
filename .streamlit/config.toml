@@ -1,3 +1,6 @@
+[server]
+headless=true
+
 [theme]
 base="dark"
 primaryColor="#4bffc3"
