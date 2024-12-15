@@ -1,6 +1,6 @@
 """ \
-Interpret the mathematical equation in the provided image and generate the corresponding LaTeX code.
-Guidelines:
+Interpret the mathematical equation in the provided image and generate the corresponding `Typst` code.
+Guidelines: 
     - Do not include any additional explanations or text;
     - Avoid simplifying the equations;
     - Do not explain or describe the equation's symbols;
